@@ -29,6 +29,7 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"daisyui": "^2.31.0"
+		"daisyui": "^2.31.0",
+		"svelte-qrcode": "^1.0.0"
 	}
 }
